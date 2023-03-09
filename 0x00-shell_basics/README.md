@@ -1,1 +1,1 @@
-Displaying the lists of my currect directory
+Changing user's directory to home directory
