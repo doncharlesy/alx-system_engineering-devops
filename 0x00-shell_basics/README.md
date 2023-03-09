@@ -1,1 +1,1 @@
-Deleting betty from my_first_directory
+Deleting my_first_directory
