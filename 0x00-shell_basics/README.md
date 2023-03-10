@@ -1,1 +1,1 @@
-Print Iamafile
+Symbolic link
