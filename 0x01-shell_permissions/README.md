@@ -1,1 +1,1 @@
-Mirrow permissions in hello to olleh
+Execution permissions to all sub directories
