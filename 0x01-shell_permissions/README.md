@@ -1,1 +1,1 @@
-Creating pring effective username
+Print all the group users the user is part of
