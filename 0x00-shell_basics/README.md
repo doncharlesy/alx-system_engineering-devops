@@ -1,1 +1,1 @@
-switches current user to user betty
+magic file
