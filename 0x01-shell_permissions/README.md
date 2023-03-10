@@ -1,1 +1,1 @@
--rwxr-x-wx
+Mirrow permissions in hello to olleh
