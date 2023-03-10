@@ -1,1 +1,1 @@
-Changing grou ownership
+Creating execution permissions for all subdirectories
