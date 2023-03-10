@@ -1,1 +1,1 @@
-Multiple execute permisions
+Everyone execute permisions without commas
