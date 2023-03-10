@@ -1,1 +1,1 @@
-Deleting all files starting with ~
+Creating directories in a current directory
