@@ -1,1 +1,1 @@
-Execute permission to file owner hello
+Multiple execute permisions
