@@ -1,1 +1,1 @@
-Execution permissions to all sub directories
+creating a directory with 751 permissions
