@@ -1,1 +1,1 @@
-Switching current user to user betty
+Creating pring effective username
