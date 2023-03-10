@@ -1,1 +1,1 @@
-creating a directory with 751 permissions
+Changing grou ownership
